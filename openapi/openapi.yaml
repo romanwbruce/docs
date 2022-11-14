@@ -2,15 +2,15 @@ openapi: 3.1.0
 info:
   version: 1.0.0
   title: Saasplanet.org
-  termsOfService: 'https://example.com/terms/'
+  termsOfService: 'https://saasplanet.org'
   contact:
-    email: contact@example.com
-    url: 'http://example.com/contact'
+    email: support@saasplanet.org
+    url: 'https://saasplanet.org'
   license:
     name: Apache 2.0
     url: 'http://www.apache.org/licenses/LICENSE-2.0.html'
   x-logo:
-    url: 'https://redocly.github.io/openapi-template/logo.png'
+    url: 'https://www.saasplanet.org/images/logo-w.png'
   description:
     $ref: ./info-description.md
 tags:
